@@ -1,0 +1,6 @@
+C:\Users\user1\source\repos\TemperatureConverter\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\TemperatureConverter\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\TemperatureConverter\Model\bin\Debug\Model.dll
+C:\Users\user1\source\repos\TemperatureConverter\Model\bin\Debug\Model.pdb
+C:\Users\user1\source\repos\TemperatureConverter\Model\obj\Debug\Model.dll
+C:\Users\user1\source\repos\TemperatureConverter\Model\obj\Debug\Model.pdb

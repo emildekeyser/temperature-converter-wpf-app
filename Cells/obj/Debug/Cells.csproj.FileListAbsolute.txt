@@ -1,0 +1,6 @@
+C:\Users\user1\source\repos\TemperatureConverter\Cellls\bin\Debug\Cellls.dll
+C:\Users\user1\source\repos\TemperatureConverter\Cellls\bin\Debug\Cellls.pdb
+C:\Users\user1\source\repos\TemperatureConverter\Cellls\obj\Debug\Cells.csprojAssemblyReference.cache
+C:\Users\user1\source\repos\TemperatureConverter\Cellls\obj\Debug\Cells.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\TemperatureConverter\Cellls\obj\Debug\Cellls.dll
+C:\Users\user1\source\repos\TemperatureConverter\Cellls\obj\Debug\Cellls.pdb
